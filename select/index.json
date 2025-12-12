@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "障害とパプリカ",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-12T10:39:23.322053Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "障害とパプリカ",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_障害とパプリカ_NEE.txt"
+    }
+  ]
+}
